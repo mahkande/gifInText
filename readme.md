@@ -1,1 +1,1 @@
-![](https://github.com/mahkande/SearchBoxAnime/blob/master/captured-readme.gif)
+![](https://github.com/mahkande/gifInText/blob/master/captured-readme.gif)
